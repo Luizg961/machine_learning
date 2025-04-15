@@ -1,0 +1,14 @@
+Top 3 modelos versáteis que funcionam MUITO bem em muitos casos:
+
+Random Forest – balanceia bem simplicidade e performance
+
+XGBoost – campeão de várias competições de ML
+
+Logistic Regression – excelente ponto de partida, especialmente em classificação binária
+
+
+Tipo de Problema	Melhor Modelo Inicial (Recomendado)	Por quê?
+📊 Classificação geral	RandomForestClassifier	Robusto, boa performance e fácil de usar
+🏷️ Dados com muitas categorias	XGBoost ou CatBoost	Melhor desempenho com dados complexos
+📉 Regressão contínua	GradientBoostingRegressor ou XGBoost	Muito eficaz para prever valores
+⚙️ Problemas lineares simples	LogisticRegression, LinearRegression	Fácil de interpretar e rápido
